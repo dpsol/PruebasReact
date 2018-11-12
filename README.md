@@ -1,2 +1,0 @@
-# PruebasReact
-Created with CodeSandbox
